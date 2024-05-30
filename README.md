@@ -8,7 +8,6 @@ Project integration to agregate financial accounts in one place (Spreadsheet)
 - [ ] Use the Plaid API to fill this new spreadsheet with sandbox data
 - [ ] Use the [Google Identity API](https://developers.google.com/identity/gsi/web/guides/overview) to create a "Sign in with Google" button that creates a new spreadsheet and fills it with sandbox data from Plaid
 - [ ] Turn the Python code into a `pip`-installable module
-- [ ] Figure out how to deploy this onto `evanphilipsmith.com`
 - [ ] Use the Plaid API to fill the spreadsheet in with actual data
 
 
