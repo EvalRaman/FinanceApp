@@ -14,7 +14,8 @@ Source of information:
 Example: https://github.com/williamlmao/plaid-to-gsheets (Python)
 Example 2: https://github.com/e13h/gsheets-plaid/tree/main
 Example 3: https://github.com/alexlimon/BudgetUpdater/blob/master/updateBudget.py
-  
+https://github.com/monkeydust/openbanking/tree/master
+https://github.com/ariessunfeld/plaid-aggregator/tree/main
 
   
 
